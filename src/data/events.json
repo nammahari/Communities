@@ -1,5 +1,5 @@
 [
-    {
+  {
     "eventName": "Market Research Workshop for Startup Founders & Tech Product Showcase",
     "eventDescription": "A gathering of founders and startup folks from Chennai!",
     "eventDate": "2025-06-28",
@@ -9,28 +9,6 @@
     "location": "Chennai",
     "communityName": "The Startup Club",
     "communityLogo": "https://i.ibb.co/FbBkRHh6/The-Startup-Club.png"
-  },
-  {
-    "eventName": "FOSS United X Js Lovers",
-    "eventDescription": "Colloborative community meetup between FOSS United and JSLovers",
-    "eventDate": "2025-06-21",
-    "eventTime": "14:00",
-    "eventVenue": "Zoominfo, 11th Floor , A, GLOBAL INFOCITY PARK, Kodandarama Nagar, Perungudi, Chennai, Tamil Nadu 600096, India",
-    "eventLink": "https://fossunited.org/c/chennai/2025/june",
-    "location": "Chennai",
-    "communityName": "FOSS United Chennai",
-    "communityLogo": "https://i.ibb.co/F45XJbvR/FOSS-United-Chennai.png"
-  },
-  {
-    "eventName": "NammaFlutter June Meetup",
-    "eventDescription": "NammaFlutter is a community of Flutter developers in Chennai. We are celebrating our 1st year anniversary with a meetup. Join us for a day of fun, learning, and networking with fellow Flutter enthusiasts.",
-    "eventDate": "2025-06-21",
-    "eventTime": "09:00",
-    "eventVenue": "M2P Fintech, C1 & C56, Thiru Vi Ka Industrial Estate, SIDCO, Guindy, Chennai, Tamil Nadu 600032, India",
-    "eventLink": "https://lu.ma/qoqchmc7",
-    "location": "Chennai",
-    "communityName": "NammaFlutter",
-    "communityLogo": "https://i.ibb.co/0R8qZ1qP/final-logo.png"
   },
   {
     "eventName": "GitHub Copilot Chennai Bootcamp",
@@ -44,17 +22,6 @@
     "communityLogo": "https://secure.meetupstatic.com/photos/event/5/2/7/5/clean_525381109.webp"
   },
   {
-    "eventName": "D3 Community Meetup #2",
-    "eventDescription": "D3 Community Meetup #02: Join a vibrant in-person community for Software Engineers focused on Full Stack, DevOps, Cloud & AI. Learn, network, and grow!",
-    "eventDate": "2025-06-21",
-    "eventTime": "9:30",
-    "eventVenue": "Zoominfo, 11th Floor , A, GLOBAL INFOCITY PARK, Kodandarama Nagar, Perungudi, Chennai, Tamil Nadu 600096, India",
-    "eventLink": "https://lu.ma/vhw0tdoi",
-    "location": "Chennai",
-    "communityName": "D3 Community",
-    "communityLogo": "https://i.ibb.co/BKQb8hLG/D3-Community-Official-logo.png"
-  },
-  {
     "eventName": "TossConf'25",
     "eventDescription": "TOSSConf25 (Tamil Open Source Software Conference 2025) is a community-driven event celebrating open-source software and Tamil computing. Scheduled for July 18–19, 2025, at St. Joseph’s Institute of Technology in Semmancheri, Chennai, the conference aims to bring together developers, contributors, and enthusiasts to promote open source initiatives in Tamil Nadu.",
     "eventDate": "2025-07-18",
@@ -64,39 +31,6 @@
     "location": "Chennai",
     "communityName": "TossConf25",
     "communityLogo": "https://i.ibb.co/fWZCQww/hero-bg1.png"
-  },
-  {
-    "eventName": "Crafting Cohesive Web Experience: Breakpoints to Design Systems",
-    "eventDescription": "Join Chennai Web Engineering Session to learn building design system libraries and to effectively use breakpoints in CSS from industry experts",
-    "eventDate": "2025-06-21",
-    "eventTime": "11:00",
-    "eventVenue": "Ford GTBC, Elcot Sez, Shollinganallur, Chennai, Tamil Nadu 600119",
-    "eventLink": "https://www.meetup.com/chennai-web-engineering/events/308087414/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
-    "location": "Chennai",
-    "communityName": "Chennai Web Engineering",
-    "communityLogo": "https://i.ibb.co/21x51045/cwe-transparent.png"
-  },
-  {
-    "eventName": "AI Geeks June Meetup #4",
-    "eventDescription": "Join AI Geeks for an insightful session on the latest trends in AI and machine learning.",
-    "eventDate": "2025-06-21",
-    "eventTime": "09:00",
-    "eventVenue": "YuniQ ,4th  Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113, India",
-    "eventLink": "https://lu.ma/3iw312xa",
-    "location": "Chennai",
-    "communityName": "AI Geeks Chennai",
-    "communityLogo": "https://i.ibb.co/hFYp8mx0/ai-geeks-chennai-logo.jpg"
-  },
-  {
-    "eventName": "Build2Learn - 21st June 2025",
-    "eventDescription": "Bring your ideas, Build them with a team, showcase and celebrate ",
-    "eventDate": "2025-06-21",
-    "eventTime": "10:00",
-    "eventVenue": "Thoughtworks Ascendas IT park - Tharamani",
-    "eventLink": "https://lu.ma/w2q4yjer?utm_source=tamilnadutech",
-    "location": "Chennai",
-    "communityName": "Build2Learn",
-    "communityLogo": "https://i.ibb.co/CBsgh43/bxOxo5O.png"
   },
   {
     "eventName": "A Coffee Talk At The HUB",
