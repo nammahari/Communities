@@ -142,5 +142,16 @@
     "location": "Chennai",
     "communityName": "Codesapiens",
     "communityLogo": "https://i.ibb.co/bgwW96Mh/logo.png"
+  },
+  {
+    "eventName": "Madurai FOSS Meetup – December",
+    "eventDescription": "A fresh new chapter begins! Kickstart the Madurai FOSS vibe with inspiring talks, cool people, and pure FOSS energy!",
+    "eventDate": "2024-12-20",
+    "eventTime": "10:00",
+    "eventVenue": "DCI (Dot Com Infoway), 1st Floor, Vaigai Colony, 80 Feet Rd, opp. to Ambika Theatre, Anna Nagar, Madurai.",
+    "eventLink": "https://fossunited.org/c/madurai/dec-20",
+    "location": "Madurai",
+    "communityName": "FOSS United Madurai",
+    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
   }
 ]
