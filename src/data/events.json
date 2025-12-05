@@ -164,5 +164,16 @@
     "location": "Madurai",
     "communityName": "FOSS United Madurai",
     "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
+  },
+  {
+    "eventName": "Kotlin Jam by KUGChennai",
+    "eventDescription": "Join us for a series of engaging talks by expert speakers, followed by ample opportunities to network with fellow attendees.",
+    "eventDate": "2025-12-20",
+    "eventTime": "9:30",
+    "eventVenue": "TBD",
+    "eventLink": "https://luma.com/mj0jq8zo",
+    "location": "Chennai",
+    "communityName": "Kotlin User Group Chennai",
+    "communityLogo": "https://image2url.com/images/1764938609003-e79de278-5856-4383-a0dd-a6b6b4f7f716.svg"
   }
 ]
