@@ -144,6 +144,17 @@
     "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
   },
   {
+    "eventName": "KoHacks #2",
+    "eventDescription": "​Ko-Hacks is a hackathon event exclusively focused on Kotlin application development.",
+    "eventDate": "2025-11-01",
+    "eventTime": "9:00",
+    "eventVenue": "Mako IT Lab - Indian Delivery Center",
+    "eventLink": "https://luma.com/fdgvao4j?tk=IX5FAm",
+    "location": "Chennai",
+    "communityName": "Kotlin User Group Chennai",
+    "communityLogo": "https://i.ibb.co/N6q8WqzK/KUG-Board-Logo-1.png"
+  },
+  {
     "eventName": "Codesapiens November Meetup - Tech Winter Warm-Up!",
     "eventDescription": "A cool November meetup to reboot your mind, refuel your tech energy, and level up before the semester boss fight begins!",
     "eventDate": "2025-11-29",
@@ -175,5 +186,16 @@
     "location": "Madurai",
     "communityName": "FOSS United Madurai",
     "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
+  },
+  {
+    "eventName": "Kotlin Jam by KUGChennai",
+    "eventDescription": "Join us for a series of engaging talks by expert speakers, followed by ample opportunities to network with fellow attendees.",
+    "eventDate": "2025-12-20",
+    "eventTime": "9:30",
+    "eventVenue": "TBD",
+    "eventLink": "https://luma.com/mj0jq8zo",
+    "location": "Chennai",
+    "communityName": "Kotlin User Group Chennai",
+    "communityLogo": "https://i.ibb.co/N6q8WqzK/KUG-Board-Logo-1.png"
   }
 ]
