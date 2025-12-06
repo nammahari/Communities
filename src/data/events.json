@@ -89,6 +89,17 @@
     "communityLogo": "https://secure.meetupstatic.com/photos/event/3/3/5/7/clean_524773143.webp"
   },
   {
+    "eventName": "From-Dev-to-Ops | Devops Community Meetup Dec 13",
+    "eventDescription": "From-Dev-to-Ops is a community of devops, SRE and Platform Engineers who share raw, behind-the-scenes war room experiences — the outages, the quick fixes, the lessons learned, and the systems that broke in a fun, honest, and simple way.",
+    "eventDate": "2025-12-13",
+    "eventTime": "09:30",
+    "eventVenue": "Perfecter.ai, Temple Steps 6th Floor B Block 181-187 Anna Salai, Little Mount, Saidapet",
+    "eventLink": "https://luma.com/nws1yrzn",
+    "location": "Chennai",
+    "communityName": "From-Dev-to-Ops",
+    "communityLogo": "https://i.ibb.co/KZTKzgt/from-dev-to-ops-logo-900-x-900-px.png"
+  },
+  {
     "eventName": "NammaFlutter DevCon - The Flagship Flutter Developer Conference",
     "eventDescription": "Join us to celebrate Flutter and share the enthusiasm with fellow Flutter Developers",
     "eventDate": "2025-12-20",
@@ -153,5 +164,16 @@
   "location": "Chennai",
   "communityName": "CodeonJVM Chennai",
   "communityLogo": "https://i.ibb.co/84B2cpZy/Logo-Black.jpg"
+  },
+  {
+    "eventName": "Madurai FOSS Meetup – December",
+    "eventDescription": "A fresh new chapter begins! Kickstart the Madurai FOSS vibe with inspiring talks, cool people, and pure FOSS energy!",
+    "eventDate": "2025-12-20",
+    "eventTime": "10:00",
+    "eventVenue": "DCI (Dot Com Infoway), 1st Floor, Vaigai Colony, 80 Feet Rd, opp. to Ambika Theatre, Anna Nagar, Madurai.",
+    "eventLink": "https://fossunited.org/c/madurai/dec-20",
+    "location": "Madurai",
+    "communityName": "FOSS United Madurai",
+    "communityLogo": "https://fossunited.org/files/Foss%20United%20Logo%20Black.svg"
   }
 ]
