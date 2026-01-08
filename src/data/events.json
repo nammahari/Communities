@@ -23,15 +23,15 @@
     "paid": true
   },
   {
-    "eventName": "Digital Dreamers Den (D3) Meetup #5",
+    "eventName": "Digital Dreamers Den (D3) Workshop #1",
     "eventDescription": "Digital Dreamers Den (D3) is a vibrant tech community that brings together AI Full-Stack Developers to build the future. We host events, workshops, and networking opportunities that connect talented engineers with cutting-edge technology and industry leaders.",
-    "eventDate": "2025-11-22",
-    "eventTime": "09:30",
+    "eventDate": "2026-01-31",
+    "eventTime": "14:00",
     "eventVenue": "YuniQ, 4th Floor, TICEL BIOPARK, 5, CSIR Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
-    "eventLink": "https://d3community.in/meetup-5",
+    "eventLink": "https://d3community.in/workshop-1",
     "location": "Chennai",
     "communityName": "Digital Dreamers Den (D3)",
-    "communityLogo": "https://i.ibb.co/Cr5BSh2/D3logo.png"
+    "communityLogo": "https://i.ibb.co/Lh1nbgjy/D3-Community-Official-logo.png"
   },
   {
     "eventName": "From Dev to Ops | Devops Community Meetup Nov 15",
@@ -219,5 +219,5 @@
     "location": "Guindy, Chennai",
     "communityName": "The AI Connect (TAI) 3.0",
     "communityLogo": "https://i.ibb.co/pry2pPVc/TAI-LOGO.png"
-}
+  }
 ]
