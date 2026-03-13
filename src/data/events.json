@@ -461,5 +461,20 @@
     "location": "Chennai",
     "communityName": "OpenSearch User Group Chennai",
     "communityLogo": "https://res.cloudinary.com/dfhtr1rwo/image/upload/v1762066985/opensearch_logo_hg3k8s.png"
+  },
+  {
+    "eventName": "CodeSapiens × She Builds Chennai - Women in Tech March Meetup",
+    "eventDescription": "CodeSapiens × She Builds Chennai March Meetup celebrating Women in Tech. Connect, learn, and grow with women developers through real ideas, skills, and collaboration.",
+    "eventDate": "2026-03-15",
+    "eventTime": "14:30",
+    "eventVenue": "Chennai, Tamil Nadu, India",
+    "eventLink": "https://lu.ma/codesapiens",
+    "location": "Chennai",
+    "communityName": "CodeSapiens",
+    "communityLogo": "https://res.cloudinary.com/dqudvximt/image/upload/v1756797708/WhatsApp_Image_2025-09-02_at_12.45.18_b15791ea_rnlwrz.jpg",
+    "alert": {
+       "message": "Limited seats available. Register early.",
+       "type": "general"
+    }
   }
 ]
