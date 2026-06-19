@@ -221,7 +221,7 @@
     "eventVenue": "Rajalakshmi Engineering College",
     "eventLink": "https://luma.com/vs98di4e",
     "location": "Chennai",
-    "communityName": "Shebuilds Chennai",
+    "communityName": "SheBuilds Chennai",
     "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
   },
   {
@@ -408,7 +408,7 @@
     "eventVenue": "Happyfox, Guindy",
     "eventLink": "https://luma.com/yn75k5kp",
     "location": "Chennai",
-    "communityName": "Shebuilds Chennai",
+    "communityName": "SheBuilds Chennai",
     "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
   },
   {
@@ -545,7 +545,7 @@
     "eventVenue": "Mako IT Lab, 8th Floor, TICEL BIOPARK, TICEL Biopark Rd, Phase II, Tharamani, Chennai, Tamil Nadu 600113",
     "eventLink": "https://luma.com/g963zdlh",
     "location": "Chennai",
-    "communityName": "Shebuilds Chennai",
+    "communityName": "SheBuilds Chennai",
     "communityLogo": "https://podu.pics/gqDU4H07VM",
     "alert": {
       "message": "Register early and secure your spots soon! Built by her. Backed by boldness.",
@@ -606,7 +606,7 @@
     "eventVenue": "Yuniq(Tekclan Software Solutions PVT. LTD.), 4th Floor, PHASE-2, TICEL Biopark Rd, Tharamani, Chennai, Tamil Nadu 600113, India",
     "eventLink": "https://luma.com/bnaljef7",
     "location": "Chennai",
-    "communityName": "Shebuilds Chennai",
+    "communityName": "SheBuilds Chennai",
     "communityLogo": "https://podu.pics/gqDU4H07VM"
   },
   {
@@ -674,5 +674,29 @@
     "location": "Chennai",
     "communityName": "CodeonJVM Chennai",
     "communityLogo": "https://i.ibb.co/3YRw7XCd/Logo-1-Black.jpg"
+  },
+  {
+    "eventName": "HER Second Innings",
+    "eventDescription": "An art and journaling session for women in career break, women entrepreneurs and senior professionals.",
+    "eventDate": "2026-06-21",
+    "eventTime": "16:00",
+    "eventEndTime": "18:00",
+    "eventVenue": "Wasted 360 Solutions, T. Nagar",
+    "eventLink": "https://luma.com/8swe0z6p",
+    "location": "Chennai",
+    "communityName": "SheBuilds Chennai",
+    "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
+  },
+  {
+    "eventName": "SheBuilds Chennai Hack",
+    "eventDescription": "Women-only hackathon for students, professionals & entrepreneurs. Form teams of 2-4 and submit idea PPT. Top 50 shortlisted teams proceed to the 24-hour grand finale on Aug 1-2.",
+    "eventDate": "2026-08-01",
+    "eventTime": "09:00",
+    "eventEndDate": "2026-08-02",
+    "eventVenue": "Rajalakshmi Engineering College, Chennai",
+    "eventLink": "https://shebuildschennai.in",
+    "location": "Chennai",
+    "communityName": "SheBuilds Chennai",
+    "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
   }
 ]
