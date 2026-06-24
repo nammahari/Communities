@@ -710,5 +710,17 @@
     "location": "Coimbatore",
     "communityName": "Global AI Coimbatore",
     "communityLogo": "https://podu.pics/pX688b3q5G"
+  },
+  {
+    "eventName": "Build //localhost: Erode",
+    "eventDescription": "Join for Microsoft Build highlights, great conversations, and food. An official event redelivery by Global AI Community.",
+    "eventDate": "2026-06-27",
+    "eventTime": "10:00",
+    "eventEndTime": "13:00",
+    "eventVenue": "Nandha Engineering College, Erode, India",
+    "eventLink": "https://globalai.community/e/x8js786g",
+    "location": "Erode",
+    "communityName": "Global AI Villupuram",
+    "communityLogo": "https://podu.pics/pX688b3q5G"
   }
 ]
