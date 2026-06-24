@@ -698,5 +698,17 @@
     "location": "Chennai",
     "communityName": "SheBuilds Chennai",
     "communityLogo": "https://i.ibb.co/mCLbZ2Sb/shebuilds-logo.png"
+  },
+  {
+    "eventName": "Build //localhost: Coimbatore",
+    "eventDescription": "Join for Microsoft Build highlights, great conversations, and food. An official event redelivery by Global AI Community.",
+    "eventDate": "2026-06-27",
+    "eventTime": "10:00",
+    "eventEndTime": "14:00",
+    "eventVenue": "Kovan Labs, Coimbatore, India",
+    "eventLink": "https://globalai.community/e/mn0l6guq",
+    "location": "Coimbatore",
+    "communityName": "Global AI Coimbatore",
+    "communityLogo": "https://podu.pics/pX688b3q5G"
   }
 ]
